@@ -11,7 +11,7 @@ await releaseV1(umi, {
     owner: umi.identity,
     escrow,
     asset: assets[0].publicKey,
-    collection: collection.publicKey,
+    collection: collecotion.publicKey,
     feeProjectAccount: escrowData.feeLocation,
     token: tokenMint.publicKey,
   }).sendAndConfirm(umi);
