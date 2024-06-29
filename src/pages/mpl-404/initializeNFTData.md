@@ -1,5 +1,5 @@
 ---
-title: Initializing Escrow
+title: Initializing NFT Data
 metaTitle: MPL-404 - Initializing Escrow
 description: Initializing MPL-404 Escrow
 ---
