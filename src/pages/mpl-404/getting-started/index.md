@@ -1,7 +1,7 @@
 ---
 title: Getting Started
-metaTitle: Core - Getting Started
-description: Get started with the new Digital Asset Standard.
+metaTitle: MPL-404 - Getting Started
+description: Get started with MPL-404 Smart Escrow
 ---
 
 Select the language / library you want to use below to get started with the new Metaplex Core Standard.
