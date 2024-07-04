@@ -22,3 +22,7 @@ Providing liquidity is a complex topic beyond the scope of MPL-404. The token es
 ## How is MPL-404 different from ERC-404?
 
 While the roots of MPL-404, SPL-404, are inspired by the Ethereum hybrid standard ERC-404, the standards are quite different. ERC-404 assets act like both a fungible and non-fungible asset at the same time, while MPL-404 assets can fluidly move between the two states, taking advantage of the best features of both. Additionally, MPL-404 allows for advanced swap gamification, serving as a new source of revenue for projects.
+
+## Can I Create an MPL-404 Backed by a Memecoin?
+
+Yes. MPL-404 allows you to create hybrids backed by any fungible token on Solana.

@@ -28,7 +28,7 @@ export const mpl404 = {
             { title: 'Overview', href: '/mpl-404' },
             { title: 'Preperation', href: '/mpl-404/preperation' },
             { title: 'Philosophy', href: '/mpl-404/philosophy' },
-            { title: 'Advanced Topics', href: '/mpl-404/advancedTopics' },
+            // { title: 'Advanced Topics', href: '/mpl-404/advancedTopics' },
             { title: 'Getting Started', href: '/mpl-404/getting-started' },
             { title: 'FAQ', href: '/mpl-404/faq' },
           ],
