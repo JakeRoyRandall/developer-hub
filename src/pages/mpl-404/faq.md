@@ -25,4 +25,8 @@ While the roots of MPL-404, SPL-404, are inspired by the Ethereum hybrid standar
 
 ## Can I Create an MPL-404 Backed by a Memecoin?
 
-Yes. MPL-404 allows you to create hybrids backed by any fungible token on Solana.
+Yes. MPL-404 allows you to create hybrids backed by any fungible token on Solana. You could make a hybrid backed by BONK or another memecoin.
+
+## Are There Any Costs Associated With Using MPL-404?
+
+Yes. There is a .005 sol swap protocal fee on every swap.
